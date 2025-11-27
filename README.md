@@ -6,7 +6,6 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=alexis-piquet&show_icons=true&theme=radical"/>
-  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexis-piquet&theme=radical" alt="Streak Stats"/>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=alexis-piquet&theme=radical&row=1&column=6" alt="Trophies"/>
   <br>
