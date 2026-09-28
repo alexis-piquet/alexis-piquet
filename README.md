@@ -3,6 +3,53 @@
   <img alt="Coding" width="100%" src="./assets/banner.png">
 </div>
 
+<div align="center">
+
+# Alexis Piquet
+
+### Full-stack developer · Webciel builder · self-hosting and tooling enthusiast
+
+I build web platforms, internal tools, backend services, design systems, automation scripts, and the infrastructure needed to run them properly.
+
+[![Webciel](https://img.shields.io/badge/Webciel-webciel.tech-0EA5E9?style=for-the-badge)](https://webciel.tech)
+[![GitHub Webciel](https://img.shields.io/badge/GitHub-webciel-181717?style=for-the-badge&logo=github)](https://github.com/webciel)
+[![GitHub Alexis](https://img.shields.io/badge/GitHub-alexis--piquet-181717?style=for-the-badge&logo=github)](https://github.com/alexis-piquet)
+
+</div>
+
+## 🌤 Webciel
+
+**Webciel** is my main long-term project: a modular ecosystem for building websites, client platforms, admin tools, backend services, shared libraries, and deployment workflows.
+
+The public GitHub organization will progressively highlight the reusable parts of the project: shared packages, frontend foundations, API tooling, design-system work, and infrastructure helpers.
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</div>
+
+### What Webciel covers
+
+| Area | Focus |
+| --- | --- |
+| Frontend | Marketing site, client platform, admin/back-office, tenant websites |
+| Backend | Auth, company, billing, commerce, planning, media, content, support, website services |
+| Libraries | Design core, UI primitives, flags, roles, API/data tooling |
+| Operations | Foundry orchestration, Docker stack, PostgreSQL, observability, release tooling |
+
+## 🧭 About My Work
+
+- I move comfortably between frontend, backend, infrastructure, and developer tooling.
+- I like systems that are clear to maintain, easy to run locally, and honest about complexity.
+- I often work on private repositories, self-hosted GitLab/Gitea instances, and internal platforms.
+- I enjoy the practical side of engineering: shipping, debugging, automating, documenting, and keeping things alive.
+
 ## 📊 GitHub Stats
 <div align="center">
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=alexis-piquet&show_icons=true&theme=radical"/>
@@ -40,14 +87,10 @@ These contributions do not appear in the public stats, but they represent a majo
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat&logo=tauri&logoColor=black)
 ![Wails](https://img.shields.io/badge/-Wails-2C2D72?style=flat&logoColor=white)
 
-
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" /> Backend & API
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
