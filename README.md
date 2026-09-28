@@ -11,10 +11,6 @@
 
 I build web platforms, internal tools, backend services, design systems, automation scripts, and the infrastructure needed to run them properly.
 
-[![Webciel](https://img.shields.io/badge/Webciel-webciel.tech-0EA5E9?style=for-the-badge)](https://webciel.tech)
-[![GitHub Webciel](https://img.shields.io/badge/GitHub-webciel-181717?style=for-the-badge&logo=github)](https://github.com/webciel)
-[![GitHub Alexis](https://img.shields.io/badge/GitHub-alexis--piquet-181717?style=for-the-badge&logo=github)](https://github.com/alexis-piquet)
-
 </div>
 
 ## 🌤 Webciel
